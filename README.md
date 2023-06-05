@@ -1,4 +1,4 @@
-# jpg-to-pdf
+# jpgs-to-pdf
 This repository contains a short Python script, that allows you to combine multiple JPG images into a single PDF document. The script utilizes the `fpdf` library for PDF generation and the `PIL` library for image manipulation.
 
 To use the script, you need to provide the following inputs:
