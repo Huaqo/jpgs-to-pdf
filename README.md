@@ -21,7 +21,7 @@ Usage:
 4. Run the script with the following command:
 
 ```bash
-python3 jpgtopdf.py -f /path/to/folder -n pdfname -e .jpg
+python3 jpgs-to-pdf.py -f /path/to/folder -n pdfname -e .jpg
 ```
 
 Replace `/path/to/folder` with the path to the folder containing your JPG images, `pdfname` with the desired name for the output PDF file, and `.jpg` with the extension of your image files.
